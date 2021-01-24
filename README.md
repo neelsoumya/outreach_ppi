@@ -2,6 +2,14 @@
 
 Outreach and PPI resources
 
+* Resources
+
+    * https://www.climbproject.org.uk/dance-mat
+    
+    * https://www.climbproject.org.uk/big-data-illustration
+    
+    * https://www.climbproject.org.uk/machine-learning-webcam
+
 * Tensorflow in the browser
 
     * https://github.com/tensorflow/tfjs/blob/master/GALLERY.md
