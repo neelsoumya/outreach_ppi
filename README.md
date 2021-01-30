@@ -10,7 +10,7 @@ Outreach and PPI resources.
     
     * https://www.climbproject.org.uk/machine-learning-webcam
 
-* Tensorflow in the browser
+* Tensorflow and AI in the browser
 
     * https://github.com/tensorflow/tfjs/blob/master/GALLERY.md
 
