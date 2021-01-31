@@ -1,6 +1,6 @@
 # outreach_ppi
 
-Outreach and PPI resources.
+Outreach and PPI resources for Artificial Intelligence (AI).
 
 * Resources
 
