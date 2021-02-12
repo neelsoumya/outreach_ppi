@@ -1,6 +1,6 @@
 # outreach_ppi
 
-Outreach and PPI resources for Artificial Intelligence (AI).
+Outreach and patient and public involvement (PPI) resources for Artificial Intelligence (AI).
 
 * Resources
 
@@ -9,6 +9,7 @@ Outreach and PPI resources for Artificial Intelligence (AI).
     * https://www.climbproject.org.uk/big-data-illustration
     
     * https://www.climbproject.org.uk/machine-learning-webcam
+
 
 * Tensorflow and AI in the browser
 
@@ -31,6 +32,8 @@ Outreach and PPI resources for Artificial Intelligence (AI).
     * http://projector.tensorflow.org/
     
     * https://experiments.withgoogle.com/collection/ai
+    
+    
     
     * https://teachablemachine.withgoogle.com/
     
