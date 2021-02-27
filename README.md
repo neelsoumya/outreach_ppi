@@ -4,6 +4,8 @@ Outreach and patient and public involvement (PPI) resources for Artificial Intel
 
 * Resources
 
+    * https://teachablemachine.withgoogle.com/
+
     * https://www.climbproject.org.uk/dance-mat
     
     * https://www.climbproject.org.uk/big-data-illustration
