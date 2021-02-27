@@ -57,3 +57,7 @@ Outreach and patient and public involvement (PPI) resources for Artificial Intel
     * https://playground.tensorflow.org
 
     * http://projector.tensorflow.org/
+
+* Citation
+
+    * Forthcoming
