@@ -1,6 +1,6 @@
 # outreach_ppi
 
-Outreach and patient and public involvement (PPI) resources for Artificial Intelligence (AI).
+Outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI).
 
 * Resources
 
@@ -59,6 +59,7 @@ Outreach and patient and public involvement (PPI) resources for Artificial Intel
     * https://playground.tensorflow.org
 
     * http://projector.tensorflow.org/
+    
 
 * Citation
 
