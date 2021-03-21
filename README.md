@@ -1,6 +1,7 @@
 # outreach_ppi
 
-Outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI).
+Outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI)
+
 
 * Resources
 
