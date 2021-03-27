@@ -62,6 +62,6 @@ Outreach and patient and public involvement (PPI) resources for increasing aware
     * http://projector.tensorflow.org/
     
 
-* Citation
+* Manuscript and citation
 
     * Forthcoming
