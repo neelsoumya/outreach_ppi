@@ -61,6 +61,9 @@ Outreach and patient and public involvement (PPI) resources for increasing aware
 
     * http://projector.tensorflow.org/
     
+* Code
+
+    * https://github.com/googlecreativelab/teachable-machine-v1   
 
 * Manuscript and citation
 
