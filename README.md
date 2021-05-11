@@ -13,6 +13,8 @@ Outreach and patient and public involvement (PPI) resources for increasing aware
     
     * https://www.climbproject.org.uk/machine-learning-webcam
 
+    * https://www.aimyths.org/
+
 
 * Tensorflow and AI in the browser
 
