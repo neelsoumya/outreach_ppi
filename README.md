@@ -73,4 +73,4 @@ Outreach and patient and public involvement (PPI) resources for increasing aware
 
 * Support and contact
 
-   * Soumya Banerjee and Rudolf Cardinal 
+   * Soumya Banerjee and Rudolf N. Cardinal 
