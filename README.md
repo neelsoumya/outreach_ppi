@@ -1,6 +1,6 @@
 # outreach_ppi
 
-Outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI). These resources can be used for teaching about AI to the general public and patients.
+Outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI) in healthcare. These resources can be used for teaching about AI to the general public and patients.
 
 
 * Resources
@@ -63,9 +63,11 @@ Outreach and patient and public involvement (PPI) resources for increasing aware
 
     * http://projector.tensorflow.org/
     
+    
 * Code
 
     * https://github.com/googlecreativelab/teachable-machine-v1   
+
 
 * Manuscript and citation
 
