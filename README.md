@@ -73,6 +73,11 @@ This repository has open source outreach and patient and public involvement (PPI
    https://github.com/googlecreativelab/teachable-machine-v1   
 
 
+## Requirements
+
+A laptop/desktop with an internet connection
+
+
 ## Manuscript and citation
 
    Forthcoming
