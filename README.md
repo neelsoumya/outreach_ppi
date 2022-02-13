@@ -67,7 +67,13 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * http://projector.tensorflow.org/
     
+ 
+* AI for companies
+
+    * https://landing.ai/resources/ai-transformation-playbook/
+
     
+
 ## Code
 
    https://github.com/googlecreativelab/teachable-machine-v1   
