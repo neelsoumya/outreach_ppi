@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI) in healthcare. These resources can be used for teaching about AI to the general public and patients.
+This repository has open source outreach and patient and public involvement (PPI) resources for increasing awareness of Artificial Intelligence (AI) in healthcare. These resources can be used for teaching about AI to the general public and patients.
 
 
 ## Resources
