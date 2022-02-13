@@ -7,4 +7,5 @@ Imports: bookdown,
           knitr,
           tinytex,
           ggplot2,
-          sqldf
+          sqldf,
+          shiny
