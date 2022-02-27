@@ -81,7 +81,7 @@ This repository has open source outreach and patient and public involvement (PPI
 
 ## Requirements
 
-A laptop/desktop with an internet connection
+A laptop/desktop/smartphone with an internet connection
 
 
 ## Manuscript and citation
