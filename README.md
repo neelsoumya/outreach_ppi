@@ -98,5 +98,8 @@ A laptop/desktop/smartphone with an internet connection
 
 If you like like or use this, please cite the following DOI:
 
-[![DOI](https://zenodo.org/badge/325224278.svg)](https://zenodo.org/badge/latestdoi/325224278)
+10.5281/zenodo.4743439
 
+and the following manuscript
+
+Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies, Patterns, 2022
