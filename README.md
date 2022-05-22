@@ -1,4 +1,4 @@
-# outreach_ppi
+# outreach_ppi: Outreach and patient and public involvement resources for explaining AI to the public 
 
 ## Introduction
 
