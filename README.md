@@ -1,4 +1,4 @@
-# outreach_ppi: Outreach and patient and public involvement resources for explaining AI to the public 
+# Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
 
 ## Introduction
 
@@ -86,20 +86,27 @@ A laptop/desktop/smartphone with an internet connection
 
 ## Manuscript and citation
 
-   Forthcoming
+   Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
+   Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6), 2022
+   
+   https://doi.org/10.1016/j.patter.2022.100506
 
 
 ## Support and contact
 
-   * Soumya Banerjee and Rudolf N. Cardinal 
+   * Soumya Banerjee
 
    * sb2333@cam.ac.uk
     
 
 If you like like or use this, please cite the following DOI:
-
-10.5281/zenodo.4743439
+[
+https://doi.org/10.1016/j.patter.2022.100506
 
 and the following manuscript
 
-Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies, Patterns, 2022
+ Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
+   Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6), 2022
+   
+   https://doi.org/10.1016/j.patter.2022.100506
+
