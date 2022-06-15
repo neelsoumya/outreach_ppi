@@ -72,6 +72,9 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * https://landing.ai/resources/ai-transformation-playbook/
 
+* Resources for training and teaching data scientists
+
+   https://github.com/neelsoumya/reading_list_journal_club
     
 
 ## Code
@@ -100,7 +103,8 @@ A laptop/desktop/smartphone with an internet connection
     
 
 If you like like or use this, please cite the following DOI:
-[
+
+
 https://doi.org/10.1016/j.patter.2022.100506
 
 and the following manuscript
