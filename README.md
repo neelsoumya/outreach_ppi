@@ -84,10 +84,12 @@ This repository has open source outreach and patient and public involvement (PPI
 
 ## Requirements
 
-A laptop/desktop/smartphone with an internet connection
+A laptop/desktop/smartphone with an internet connection.
 
 
 ## Manuscript and citation
+
+If you like or use this work, please cite the following manuscript:
 
    Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies
    Soumya Banerjee, Phil Alsop, Linda Jones, Rudolf Cardinal, Patterns 3(6), 2022
