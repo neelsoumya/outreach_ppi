@@ -76,6 +76,9 @@ This repository has open source outreach and patient and public involvement (PPI
 
    https://github.com/neelsoumya/reading_list_journal_club
     
+* Working with domain experts
+
+   https://github.com/neelsoumya/working_with_domain_experts   
 
 ## Code
 
