@@ -67,6 +67,10 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * http://projector.tensorflow.org/
     
+
+* Explaining privacy preserving analysis to the public using a comic
+
+    * https://federated.withgoogle.com/
  
 * AI for companies
 
@@ -79,6 +83,7 @@ This repository has open source outreach and patient and public involvement (PPI
 * Working with domain experts
 
    https://github.com/neelsoumya/working_with_domain_experts   
+
 
 ## Code
 
