@@ -72,6 +72,10 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * https://federated.withgoogle.com/
  
+* Better images of AI
+
+   https://betterimagesofai.org/images
+ 
 * AI for companies
 
     * https://landing.ai/resources/ai-transformation-playbook/
@@ -110,6 +114,7 @@ If you like or use this work, please cite the following manuscript:
    * Soumya Banerjee
 
    * sb2333@cam.ac.uk
+   
     
 
 If you like like or use this, please cite the following DOI:
