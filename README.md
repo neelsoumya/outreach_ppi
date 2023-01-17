@@ -11,11 +11,12 @@ This repository has open source outreach and patient and public involvement (PPI
 
     * https://teachablemachine.withgoogle.com/
 
-    * https://www.climbproject.org.uk/dance-mat
+<!--    * https://www.climbproject.org.uk/dance-mat
     
     * https://www.climbproject.org.uk/big-data-illustration
     
     * https://www.climbproject.org.uk/machine-learning-webcam
+-->
 
     * https://www.aimyths.org/
 
@@ -56,10 +57,10 @@ This repository has open source outreach and patient and public involvement (PPI
     
     * https://pair-code.github.io/what-if-tool/uci.html
     
-    * https://www.climbproject.org.uk/big-data
+<!--    * https://www.climbproject.org.uk/big-data
     
     * https://www.climbproject.org.uk/dance-mat
-    
+  -->  
     
 * Materials for AI outreach for general public
 
